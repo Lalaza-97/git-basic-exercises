@@ -1,0 +1,83 @@
+    1  pkg update
+    2  Is -1rh
+    3  touch app.html
+    4  touch apptest.js
+    5  git remote add Hello-world https://github.com/Lalaza-97/Hello-world.git
+    6  touch README.md
+    7  git log
+    8  git add README.md
+    9  git README
+   10  git add README
+   11  git status
+   12  git log
+   13  git add README.md
+   14  git commit -m "initial commit"
+   15  touch README.md
+   16  git log
+   17  git checkout main
+   18  touch README.md
+   19  git checkout master
+   20  git pull
+   21  git checkout -b task/1
+   22  git add hello.js
+   23  git index.html
+   24  git add index.html
+   25  git init
+   26  git status
+   27  touch README.md
+   28  Is -a
+   29  git status
+   30  git log
+   31  git add README.md
+   32  git status
+   33  git rm --cached README.md
+   34  git status
+   35  git add README.md
+   36  git commit -m "initial commit"
+   37  git log
+   38  nano README.md
+   39  cat README.md
+   40  git status
+   41  git add README.md
+   42  git status
+   43  git log
+   44  nano README.md
+   45  cat README.md
+   46  git status
+   47  git add "second commit"
+   48  git commit -m "second commit"
+   49  git log
+   50  nano README.md
+   51  git status
+   52  git add third commit
+   53  git commit -m "third commit"
+   54  git add README.md
+   55  git commit -m "third commit"
+   56  git log
+   57  git checkout fd9f4c59b9109e04e6682c26c8d014d7f9e73e94
+   58  cat README.md
+   59  git checkout master
+   60  cat README.md
+   61  git checkout  b33ca3670d2b7c0c660a492db27400bdb5abb24d 
+   62  cat README.me
+   63  cat README.md
+   64  git checkout b33ca3670d2b7c0c660a492db27400bdb5abb24d
+   65  git checkout 2ac2bf91ca17ecac15716cd33e6e09d149397a2f
+   66  cat README.md
+   67  git branch
+   68  git branch milkshake-flavours
+   69  git branch*.
+   70  git branch *
+   71  git branch
+   72  git checkout milkshake-flavours
+   73  nano milkshakes.md
+   74  git status
+   75  git commit -m "added initial flavours"
+   76  git add milkshakes.md
+   77  git commit -m "added initial flavours"
+   78  git log
+   79  git checkout master
+   80  git branch history
+   81  git log
+   82  git branch
+   83  history > history.txt
